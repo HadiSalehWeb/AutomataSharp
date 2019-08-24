@@ -1,2 +1,2 @@
 # AutomataSharp
-Versatile Finite State Machines in C#.
+Simple and versatile Finite State Machines for C#.
